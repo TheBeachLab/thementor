@@ -8,7 +8,7 @@
 
 ## Weekly Assignments
 
-* Principles and Practices
+* [Principles and Practices](weekly-assignments/principles-and-practices.md)
 * Project Management
 * Computer Aided Design
 * Computer Controlled Cutting
