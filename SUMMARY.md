@@ -2,8 +2,8 @@
 
 ## Preamble
 
-* Credits
 * [Introduction](README.md)
+* Credits
 * Disclaimer
 
 ## Behind the Stage
