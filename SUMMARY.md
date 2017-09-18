@@ -2,11 +2,13 @@
 
 ## Preamble
 
+* Credits
 * [Introduction](README.md)
+* Disclaimer
 
-## Mentoring
+## Soft Skills
 
-## Weekly Assignments
+## Weekly Assignments Guidelines
 
 * [Principles and Practices](weekly-assignments/principles-and-practices.md)
 * Project Management
