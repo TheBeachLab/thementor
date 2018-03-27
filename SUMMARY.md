@@ -1,38 +1,18 @@
-# Summary
-
-## Preamble
-
-* [Introduction](README.md)
-* Credits
-* Disclaimer
-
-## Behind the Stage
-
-## Weekly Assignments Guidelines
-
-* [Principles and Practices](weekly-assignments/principles-and-practices.md)
-* Project Management
-* Computer Aided Design
-* Computer Controlled Cutting
-* 3D Printing and Scanning
-* Electronics Production
-* Molding and Casting
-* Project Development
-* Machine Design
-* Molding and Casting
-* Electronics Design
-* [Input Devices](weekly-assignments/input-devices.md)
-* Output Devices
-* [Composites](weekly-assignments/composites.md)
-* [Networking and Communications](weekly-assignments/networking-and-communications.md)
-* [Interface Design](weekly-assignments/interface-design.md)
-* Applications and Implications
-
-## The Final Project
-
-## What's Next
-
-* Joining Other Programs
-* [Starting Your Own Lab](whats-next/start-your-own-lab.md)
-* Becoming an Instructor
-
+# Fab Academy Weekly Assignments Guidelines
+* [Principles and Practices](weekly-assignments/pp.md)
+* [Project Management](weekly-assignments/pm.md)
+* [Computer Aided Design](weekly-assignments/cad.md)
+* [Computer Controlled Cutting](weekly-assignments/ccc.md)
+* [3D Printing and Scanning](weekly-assignments/3dp.md)
+* [Electronics Production](weekly-assignments/ep.md)
+* [Molding and Casting](weekly-assignments/mc.md)
+* [Machine Design](weekly-assignments/md.md)
+* [Electronics Design](weekly-assignments/ed.md)
+* [Input Devices](weekly-assignments/id.md)
+* [Output Devices](weekly-assignments/od.md)
+* [Composites](weekly-assignments/co.md)
+* [Networking and Communications](weekly-assignments/nc.md)
+* [Interface Design](weekly-assignments/id.md)
+* [Applications and Implications](weekly-assignments/ai.md)
+* [Project Development](weekly-assignments/pd.md)
+* [The Final Project](weekly-assignments/fp.md)
