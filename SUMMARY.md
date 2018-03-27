@@ -17,5 +17,4 @@
 * [Interface and Application Programming](weekly-assignments/iap.md)
 * [Applications and Implications](weekly-assignments/ai.md)
 * [Invention, Intellectual Property and Income](weekly-assignments/iii.md)
-* [Project Development](weekly-assignments/pd.md)
 * [The Final Project](weekly-assignments/fp.md)
